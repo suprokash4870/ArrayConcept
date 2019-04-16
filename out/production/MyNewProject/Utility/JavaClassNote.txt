@@ -1,0 +1,1 @@
+File reader is a java tool to read text from a file.
